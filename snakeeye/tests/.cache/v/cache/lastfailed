@@ -1,0 +1,5 @@
+{
+  "page/test_views.py::TestPage::()::test_home_page": true, 
+  "page/test_views.py::TestPage::()::test_privacy_page": true, 
+  "page/test_views.py::TestPage::()::test_terms_page": true
+}
